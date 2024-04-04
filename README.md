@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Today is April 4 - 2024
+
 - 🔭 I’m currently working on a data platform at my client
 - 🌱 I’m currently learning for github foundations exam
 - 👯 I’m looking to collaborate on ...
