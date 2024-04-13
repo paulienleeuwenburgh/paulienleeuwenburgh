@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Today is April 4 - 2024
+Today is April 13 - 2024
 
 - 🔭 I’m currently working on a data platform at my client
-- 🌱 I’m currently learning for github foundations exam
+- 🌱 I’m currently learning for github actions exam
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about movies or formula1
