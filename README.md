@@ -9,7 +9,7 @@ Today is April 13 - 2024
 - 💬 Ask me about movies or formula1
 - 📫 How to reach me: through my LinkedIn profile
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm not so funny ;-P
+- ⚡ Fun fact: I'm dead serious ;-P
 
 <!--
 **paulienleeuwenburgh/paulienleeuwenburgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
