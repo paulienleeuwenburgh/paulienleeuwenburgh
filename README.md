@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Today is April 13 - 2024
+Today is January 27 - 2025
 
 - 🔭 I’m currently working on a Microsoft Fabric Solutions project
 - 🌱 I’m currently learning to build yaml-pipelines
